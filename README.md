@@ -17,28 +17,43 @@
   - I design beautiful and functional UIs for both web and mobile applications.<br/>
   - I craft UX strategies that align with user needs and business goals.<br/>
   - I always explore new trends in design and tools to bring ideas to life with clarity and purpose.<br/>
-- 🔗 Check out my profile at &nbsp;&nbsp;
-    [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-    [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-    [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-    [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-    [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-    [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+- 🔗 Check out my profile at:<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Telegram-dark?style=flat&logo=telegram&labelColor=white&color=grey&link=https%3A%2F%2Ft.me%2Fmohamediagaafar)
+&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Instagram-dark?style=flat&logo=instagram&logoColor=%23d61600&labelColor=white&color=grey&link=%20https%3A%2F%2Fwww.instagram.com%2Fmohamediagaafar%3Figsh%3DMWsxODB5N2FteW5pbg%3D%3D)
+&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/LinkedIn-dark?style=flat&logo=linkedIn&logoColor=%23d61600&label=in&labelColor=%230064b2&color=grey&link=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmohamediagaafar%2F)
+&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Daily.dev-M?style=flat&logo=dailydotdev&logoColor=white&labelColor=%23141414&color=grey&link=https%3A%2F%2Fapp.daily.dev%2Fmohammediagaafar)
+&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/CodePen-M?style=flat&logo=codepen&logoColor=white&labelColor=%23141414&color=grey&link=https%3A%2F%2Fcodepen.io%2Fmohamediagaafar)
+
+
 
 ---
 
 
 ## Technologies
+- Software: <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,codepen,sqlite,firebase,postman,git,github,androidstudio,vscode,figma,xd,ai,ps&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,sqlite,firebase,postman,git,github,androidstudio,vscode,figma,xd,ai,ps&theme=dark&perline=5)](https://skillicons.dev)
+- Mobile App Development: <br/>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter&theme=dark)](https://skillicons.dev)
+
+- Database: <br/>
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=dark)](https://skillicons.dev)
+
+- Backend as a Service(BaaS): <br/>
+[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
+
+- Tools: <br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,codepen,androidstudio,vscodes&theme=dark)](https://skillicons.dev)
+
+- Design Software: <br/>
+[![My Skills](https://skillicons.dev/icons?i=xd,figma,framer,ai,ps&theme=dark)](https://skillicons.dev)
+
+
+
 
 <br/>
 <br/>
@@ -55,17 +70,22 @@
 ![Static Badge](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)
 
 
-### Connect with Me :
 
-<a href="https://linkedin.com/in/mohamediag" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Gaafar-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://t.me/MohamedIAG" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-
+---
 ## GitHub Stats 🌱​
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Btelgeuse&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Btelgeuse&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Btelgeuse&theme=transparent&hide_border=false)<br/>
+
+
+
+---
+### Connect with Me :
+
+<a href="https://linkedin.com/in/mohamediag" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Gaafar-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://t.me/MohamedIAG" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
