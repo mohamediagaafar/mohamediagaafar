@@ -11,13 +11,13 @@
 ## About Me
 - 👨‍💻​ Flutter Developer and UI-UX Designer.<br/>
 - &nbsp;📱 &nbsp;As a Flutter developer:<br/>
-  - I build high-performance Android & iOS applications using a single codebase.<br/>
+  - I build high-performance ```Android``` & ```iOS``` applications using a single codebase.<br/>
   - My focus is on delivering clean, maintainable code and smooth user experiences.<br/>
 - 🎨 As a UI-UX Designer:<br/> 
   - I design beautiful and functional UIs for both web and mobile applications.<br/>
   - I craft UX strategies that align with user needs and business goals.<br/>
   - I always explore new trends in design and tools to bring ideas to life with clarity and purpose.<br/>
-- 🔗 Check out my profile at:<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔗 Check out my profile at:<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Telegram-dark?style=flat&logo=telegram&labelColor=white&color=grey&link=https%3A%2F%2Ft.me%2Fmohamediagaafar)
 &nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Instagram-dark?style=flat&logo=instagram&logoColor=%23d61600&labelColor=white&color=grey&link=%20https%3A%2F%2Fwww.instagram.com%2Fmohamediagaafar%3Figsh%3DMWsxODB5N2FteW5pbg%3D%3D)
@@ -29,28 +29,26 @@
 ![Static Badge](https://img.shields.io/badge/CodePen-M?style=flat&logo=codepen&logoColor=white&labelColor=%23141414&color=grey&link=https%3A%2F%2Fcodepen.io%2Fmohamediagaafar)
 
 
-
 ---
 
-
 ## Technologies
-- Software: <br/>&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,codepen,sqlite,firebase,postman,git,github,androidstudio,vscode,figma,xd,ai,ps&theme=dark)](https://skillicons.dev)
-
 - Mobile App Development: <br/>
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter&theme=dark)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=dart,flutter&theme=dark)](https://skillicons.dev)
 
 - Database: <br/>
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=dark)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=dark)](https://skillicons.dev)
 
 - Backend as a Service(BaaS): <br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
 
 - Tools: <br/>
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,codepen,androidstudio,vscodes&theme=dark)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=git,postman,androidstudio,vscode&theme=dark)](https://skillicons.dev)
+
+- Communities: <br/>
+>[![My Skills](https://skillicons.dev/icons?i=codepen,github,devto&theme=dark)](https://skillicons.dev)
 
 - Design Software: <br/>
-[![My Skills](https://skillicons.dev/icons?i=xd,figma,framer,ai,ps&theme=dark)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=xd,figma,ai,ps,webflow&theme=dark)](https://skillicons.dev)
 
 
 
@@ -58,17 +56,6 @@
 <br/>
 <br/>
 <br/>
-
-
-
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-![Static Badge](https://img.shields.io/badge/Dart%20-Flutter-red?logoColor=white)
-![Static Badge](https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram)
-
 
 
 ---
@@ -79,8 +66,33 @@
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Btelgeuse&theme=transparent&hide_border=false)<br/>
 
+------
 
 
+>2015-09-14
+>
+>[bravo!](https://codepen.io/mohamediagaafar) style bar completed!
+>multi selection's performance has improved,more efficient!(& bug fixed)
+
+## What does expect us the future?
+
+I don't know what the future reserves for you, but I know for sure which are the ideas that will be implemented in the project:
+
+- [ ] Offline website (it already doesn't require a connection to work);
+- [ ] Apple Watch view mode emulation (requires me to buy an Apple Watch first);
+- [ ] Notification server testing with live changes;
+- [ ] Application localization;
+- [ ] Moar easter eggs (yes, I filled the project with a lot of easter eggs and pop culture references);
+
+
+>multi selection model is now available
+
+
+```dart
+import ";
+
+aSAs 
+```
 ---
 ### Connect with Me :
 
