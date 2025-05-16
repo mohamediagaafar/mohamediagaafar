@@ -5,7 +5,7 @@
 </h1>
 
 <p align=left> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=32&pause=1000&color=1E9AD7&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Flutter+Developer;UI+UX+Designer;Keep+Learning+Keep+Growing" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=32&pause=1000&color=00b2cb&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Flutter+Developer;UI+UX+Designer;Keep+Learning+Keep+Growing" alt="Typing SVG" />
 </a>
 </p> 
 
@@ -57,9 +57,9 @@
 ---
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohamediagaafar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediagaafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&theme=nord&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohamediagaafar&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediagaafar&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
