@@ -41,25 +41,14 @@
 >[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=dark)](https://skillicons.dev)
 - Backend as a Service(BaaS): <br/>
 >[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
-- Tools: <br/>
->[![My Skills](https://skillicons.dev/icons?i=git,postman,androidstudio,vscode,discord,notion&theme=dark)](https://skillicons.dev)
 - Communities: <br/>
 >[![My Skills](https://skillicons.dev/icons?i=codepen,github,devto&theme=dark)](https://skillicons.dev)
+- Tools: <br/>
+>[![My Skills](https://skillicons.dev/icons?i=git,postman,androidstudio,vscode,discord,notion&theme=dark)](https://skillicons.dev)
 - Design Software: <br/>
 >[![My Skills](https://skillicons.dev/icons?i=xd,figma,ai,ps,webflow&theme=dark)](https://skillicons.dev)
 
-## Connect with Me :
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ft.me%2FMohamedIAG-Telegram&logo=telegram&logoSize=50&label=Telegram&link=https%3A%2F%2Ft.me%2FMohamedIAG)
-
-
----
-
-# GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohamediagaafar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediagaafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+## Read More :
 <details>
   <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 - [My Posts]()
@@ -67,7 +56,15 @@
 
 ---
 
-## Follow Us :
-![Static Badge](https://img.shields.io/badge/Mohamed_Gaafar-white?style=social&logo=github&label=Follow&link=https%3A%2F%2Fgithub.com%2Fmohamediagaafar)
+# GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=mohamediagaafar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediagaafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## Connect With Me :&nbsp;&nbsp;![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ft.me%2FMohamedIAG-Telegram&logo=telegram&logoSize=50&label=Telegram&link=https%3A%2F%2Ft.me%2FMohamedIAG)
+
+
 
 <!-- created with Mohamed Gaafar-->
