@@ -9,7 +9,6 @@
 </p> 
 
 
-![image alt](https://github.com/mohamediagaafar/mohamediagaafar/blob/e3bbac0a9a4402c0cc4225a57d6e255ee9d421df/brand-linkedin%20(1).svg)
 
 ## About Me
 - 👨‍💻​ Flutter Developer and UI-UX Designer.<br/>
