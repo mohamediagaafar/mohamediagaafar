@@ -57,9 +57,9 @@
 ---
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&theme=nord&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohamediagaafar&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediagaafar&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mohamediagaafar&theme=nord&card_width=800)](https://git.io/streak-stats)<br/>
+![Mohamed Gaafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&show_icons=true&theme=nord&card_width=350)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediagaafar&theme=nord&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
