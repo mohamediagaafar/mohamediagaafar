@@ -8,6 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=24&pause=1000&color=1E9AD7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Flutter+Developer;UI+UX+Designer;Keep+Learning+Keep+Growing" alt="Typing SVG" /></a>
 </p> 
 
+
+![image alt](https://github.com/mohamediagaafar/mohamediagaafar/blob/e3bbac0a9a4402c0cc4225a57d6e255ee9d421df/brand-linkedin%20(1).svg)
+
 ## About Me
 - 👨‍💻​ Flutter Developer and UI-UX Designer.<br/>
 - &nbsp;📱 &nbsp;As a Flutter developer:<br/>
