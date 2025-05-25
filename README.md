@@ -5,6 +5,7 @@
 </h1>
 
 <p align=left> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=500&size=32&pause=1000&color=00b2cb&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Flutter+Developer;UI+UX+Designer;Keep+Learning+Keep+Growing" alt="Typing SVG" />
 </a>
 </p> 
