@@ -57,8 +57,8 @@
 ---
 
 # GitHub Stats :
-![Mohamed Gaafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&show_icons=true&theme=nord)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mohamediagaafar&theme=nord)](https://git.io/streak-stats)
+![Mohamed Gaafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamediagaafar&show_icons=true&theme=nord&card_width=400)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mohamediagaafar&theme=nord&card_width=400)](https://git.io/streak-stats)
 
 ---
 
